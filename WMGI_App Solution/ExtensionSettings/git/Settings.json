@@ -1,5 +1,6 @@
 ﻿{
 	"serverType": "github",
 	"gitURL": "https://github.com/wmgicloud",
-	"gitIsPrivateRepository": "false"
+	"gitIsPrivateRepository": "false",
+	"gitEmail": "sean@vocalinks.com"
 }
